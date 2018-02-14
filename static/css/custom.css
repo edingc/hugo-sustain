@@ -1,0 +1,11 @@
+html, body {
+  border-top: 3px solid #328CC1;
+}
+
+div.footer{
+  border-bottom: 5px solid #328CC1;
+}
+
+.container a{
+  color: #328cc1;
+}
